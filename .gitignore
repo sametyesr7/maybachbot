@@ -1,0 +1,16 @@
+# Kaynak kodlar
+*.py
+*.spec
+*.json
+*.txt
+*.md
+
+# Build klasörleri
+build/
+dist/
+__pycache__/
+*.pyc
+
+# Oturum dosyaları
+chrome_session.json
+Maybach_Hafiza/
