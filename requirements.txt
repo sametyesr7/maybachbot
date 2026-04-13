@@ -1,0 +1,8 @@
+selenium==4.15.2
+pywin32==311
+PySimpleGUI==4.60.5.1
+requests==2.31.0
+win10toast==0.9
+setuptools
+webdriver-manager
+2captcha-python

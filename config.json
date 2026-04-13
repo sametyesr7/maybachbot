@@ -1,0 +1,8 @@
+{
+    "url": "https://teknogiris.com/panel/withdraw2.php",
+    "min_amount": "1000",
+    "max_amount": "30000",
+    "refresh_ms": "250",
+    "button_selector": ".btn.btn-sm.btn-success",
+    "continuous_mode": false
+}
